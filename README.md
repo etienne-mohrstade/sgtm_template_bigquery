@@ -1,0 +1,1 @@
+# sgtm_template_bigquery
